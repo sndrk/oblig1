@@ -31,10 +31,6 @@ header a {
     text-decoration: none;
 }
 
-header a:active {
-    color: white;
-}
-
 body {
     margin: 0;
     background-color: white;
