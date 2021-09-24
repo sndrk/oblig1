@@ -1,0 +1,2 @@
+- One of our team members is visually impared, so we always checked the accessibilty of our website with a screenreader to make sure she could understand it.
+- 
